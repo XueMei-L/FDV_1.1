@@ -89,3 +89,6 @@ git lfs track "*.png" "*.jpg" "*.tif" "*.tga"
 git lfs track "Script1_2.cs"
 ```
 ![alt text](img/image2.png)
+
+Enlace del repo FDV1.2:
+https://github.com/XueMei-L/FDV_1.2.git
